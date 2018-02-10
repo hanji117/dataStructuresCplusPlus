@@ -1,0 +1,14 @@
+
+ 
+I’m pleased to report that empress has been configured to support the C++ 11 
+standard. Run this command after logging in:
+ 
+scl enable devtoolset-1.1 bash
+ 
+This will set your environment to use G++ 4.7 rather than the Red Hat version 
+4.1.
+ 
+Thanks!
+ 
+Jeremy
+ 

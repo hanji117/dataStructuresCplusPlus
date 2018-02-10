@@ -1,0 +1,2 @@
+g++ dgraph.cpp hw6Client.cpp slist.cpp llist.cpp
+./a.out

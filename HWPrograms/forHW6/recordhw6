@@ -1,0 +1,197 @@
+Script started on Mon 21 Nov 2016 09:52:36 PM PST
+]0;cruz076@empress:~/cs311/HWPrograms/forHW6[cruz076@empress forHW6]$ logout[Klogout[Kg++ dgraph.cpp hw6Client.cpp slist.cp [K[[Kp llist.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW6[cruz076@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vertex Name: A
+OutDegree: 2
+Adjacent Ones: B F 
+
+Vertex Name: B
+OutDegree: 2
+Adjacent Ones: C G 
+
+Vertex Name: C
+OutDegree: 1
+Adjacent Ones: H 
+
+Vertex Name: D
+OutDegree: 0
+Adjacent Ones: [ empty ]
+
+Vertex Name: E
+OutDegree: 0
+Adjacent Ones: [ empty ]
+
+Vertex Name: F
+OutDegree: 2
+Adjacent Ones: I E 
+
+Vertex Name: G
+OutDegree: 0
+Adjacent Ones: [ empty ]
+
+Vertex Name: H
+OutDegree: 2
+Adjacent Ones: G I 
+
+Vertex Name: I
+OutDegree: 3
+Adjacent Ones: A G E 
+
+....in the llist constructor
+Do you want to find a vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: A
+2
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: B
+2
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: C
+1
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: D
+0
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: E
+0
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: F
+2
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: G
+0
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: H
+2
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: I
+3
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: Z
+ERROR: Vertex not found
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display it's degree: A
+2
+Do you want to find another vertex's degree?
+If yes enter yes. If no enter no: no
+Do you want to find a vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: A
+....in the llist constructor
+....in the llist destructor
+B F 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: B
+....in the llist constructor
+....in the llist destructor
+C G 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: C
+....in the llist constructor
+....in the llist destructor
+H 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: D
+....in the llist constructor
+....in the llist destructor
+[ empty ]
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: E
+....in the llist constructor
+....in the llist destructor
+[ empty ]
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: F
+....in the llist constructor
+....in the llist destructor
+I E 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: G
+....in the llist constructor
+....in the llist destructor
+[ empty ]
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: H
+....in the llist constructor
+....in the llist destructor
+G I 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: I
+....in the llist constructor
+....in the llist destructor
+A G E 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: Y
+ERROR: Vertex not found
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: yes
+Please enter a vertex to display Adjacent Ones: A
+....in the llist constructor
+....in the llist destructor
+B F 
+Do you want to find another vertex's Adjacency?
+If yes enter yes. If no enter no: no
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+]0;cruz076@empress:~/cs311/HWPrograms/forHW6[cruz076@empress forHW6]$ exit
+exit
+
+Script done on Mon 21 Nov 2016 09:58:53 PM PST

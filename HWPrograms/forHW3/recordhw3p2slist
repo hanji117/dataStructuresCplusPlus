@@ -1,0 +1,25 @@
+Script started on Mon 17 Oct 2016 11:00:18 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ g[Klogoutemacs HW3P2client.cppls[Kclearemacs slist.hcpp[2Phcpp[2Phcpp[2Pg++[C[C[C[C[C[C[C[C[C[C[2@emacs[C[C[C[C[C[C[C[C[C[Cls[Kemacs slist.cppls[Kcd forHW3ls[Kcd forHw3ls[Kcd HWProgramsls[Kcd cs311ls[Kogout[1Pclear./a.out[2Pclearlogouts[Kcd cs311ls[Kcd HWProgramsls[Kcd forHw3ls[Kcd forHW3ls[Kemacs slist.cpp[2Pg++[C[C[C[C[C[C[C[C[C[C[2@emacs[C[C[C[C[C[C[C[C[C[C[2Phcpp[2Phcpp[2Ph[8Pclear[3Plsemacs HW3P2client.cpplogout[K[Klogoutemacs HW3P2client.cppls[Kclearemacs slist.hcpp[2Ph[8Pclearemacs slist.hcpp[2Phcpp[2Phcpp[2Pg++[C[C[C[C[C[C[C[C[C[C[2@emacs[C[C[C[C[C[C[C[C[C[Cls[Kcd forHW3ls[Kcd forHw3ls[Kcd HWProgramsls[Kcd cs311ls[Kogout[1Pclear./a.outg++ llist.cpp slist.cpp HW3P2client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pemacs slist.cppg++ llist.cpp slist.cpp HW3P2client.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ ./a.out
+calling the llist destructor
+1. add to front once (element 4).
+2. add to rear 3 times (elements 6,7,8)
+3. displayAll 
+4 6 7 8 
+4. search for 6, report the result
+found in pos 2
+5. replace the 6 with 0 using the search result
+6. search for 8 and report the result.
+found in pos 4
+7. replace the 8 with 2 using the search result
+8. displayAll 
+4 0 7 2 
+9. search for 5 and report the result 
+not found
+10. replace position 7 with 10
+ERROR: Bad position was given
+calling the llist destructor
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ exit
+exit
+
+Script done on Mon 17 Oct 2016 11:01:29 PM PDT

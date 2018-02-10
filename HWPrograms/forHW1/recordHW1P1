@@ -1,0 +1,37 @@
+Script started on Thu 15 Sep 2016 09:50:35 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ g[Kexit./a.outg++ stack.cpp client1.cpplogout[Kg++ stack.cpp client1.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./ao[K.out
+type a postfix expression: 34+
+7
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 2 345+*
+27
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 722+-
+3
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 34+56++
+18
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 12+34*45+-+
+6
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 1234567891234
+expression too long.
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: +
+Too few operands.
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 3+
+Too few operands.
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 3#
+invalid item in the expression!
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ ./a.out
+type a postfix expression: 2345+
+9
+Incomplete expression!
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1[cruz076@empress forHW1]$ exit
+exit
+
+Script done on Thu 15 Sep 2016 09:54:25 PM PDT

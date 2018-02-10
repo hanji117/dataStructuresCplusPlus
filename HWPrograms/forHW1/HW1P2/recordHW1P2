@@ -1,0 +1,38 @@
+Script started on Tue 20 Sep 2016 05:16:28 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ g++ vstack.cpp vclient1.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 34+
+7
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 345+*
+27
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 722+-
+3
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 34+56++
+18
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 12+34*45+-+
+6
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 1234567891234
+4
+Incomplete expression!
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: +
+Too few operands.
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 3+
+Too few operands.
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 3#
+invalid item in the expression!
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ ./a.out
+type a postfix expression: 2345+
+9
+Incomplete expression!
+]0;cruz076@empress:~/cs311/HWPrograms/forHW1/HW1P2[cruz076@empress HW1P2]$ exit
+exit
+
+Script done on Tue 20 Sep 2016 05:21:38 PM PDT

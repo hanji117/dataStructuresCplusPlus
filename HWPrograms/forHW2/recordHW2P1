@@ -1,0 +1,34 @@
+Script started on Sun 25 Sep 2016 01:03:19 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ g++ Bijn[K[Knsearch.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+1
+Found it in position 1
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+19
+Found it in position 10
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+5
+Found it in position 3
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+17
+Found it in position 9
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+21
+Element not found
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+0
+Element not found
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ ./a.out
+What do you want to look for?
+6
+Element not found
+]0;cruz076@empress:~/cs311/HWPrograms/forHW2[cruz076@empress forHW2]$ exit
+exit
+
+Script done on Sun 25 Sep 2016 01:05:13 PM PDT

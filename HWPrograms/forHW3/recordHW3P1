@@ -1,0 +1,122 @@
+Script started on Fri 14 Oct 2016 10:41:01 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ g++ HW3P1client.cpplHW3P1client.cpplHW3P1client.cppiHW3P1client.cppsHW3P1client.cpptHW3P1client.cpp.HW3P1client.cppcHW3P1client.cpppHW3P1client.cpppHW3P1client.cpp HW3P1client.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ ./a.out
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>1
+CASE 1:------------------- 
+1. check empty and report the result 
+Linked list is empty
+2. display the list 
+[ empty ]
+3. add 4 integers 1,2,3,4
+4. display the list 
+1 2 3 4 
+5. remove from front twice (and display the elements removed)
+1
+2
+6. display the list
+3 4 
+7. check empty and report the result 
+The linked list is not empty
+8. remove from the rear twice (display the element removed)
+4
+3
+9. check empty again and report the result
+The linked list is empty
+calling the llist destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>2
+Case 2: -----------------------
+1
+2
+3
+--this removes 4
+4
+5
+5 6 8 9 
+6
+7
+8
+9
+error (out of range)
+10
+error (out of range)
+11
+4 5 6 7 8 9 10 
+12
+Element removed: 4
+13
+Element removed: 10
+14
+Element removed: 7
+15
+error (out of range)
+16
+error out of range)
+17
+5 6 8 9 
+18
+Element removed: 9
+Element removed: 8
+Element removed: 6
+Element removed: 5
+19
+[ empty ]
+calling the llist destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>3
+Case 3:-------------------- 
+1. add before the 0th . 
+error (out of range)
+2. delete front . 
+error (underflow)
+calling the llist destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>4
+Case 4:------------------------ 
+1.delete 2nd . 
+error (out of range)
+2.delete rear .
+error (underflow)
+calling the llist destructor
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>0
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ exit
+exit
+
+Script done on Fri 14 Oct 2016 10:42:45 PM PDT

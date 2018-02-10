@@ -1,0 +1,37 @@
+Script started on Mon 24 Oct 2016 10:34:31 PM PDT
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ g++ HW3P3client.cpp slist.cpp llist.cpp
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ ./a.out
+calling the llist destructor
+calling the llist destructor
+1. Create a 5 element list with  1,2,3,4,5 (L1)
+2. Pass the list to a client function called CopyTest to test your copy constructor. 
+in copy test
+1 2 3 4 5 6 
+finished
+calling the llist destructor
+-- After copytest --- 
+3. Display L1 (this should still be a 5 element list)
+1 2 3 4 5 
+-- Testing operator overloading ---
+4. Do L1 = L1
+5. Display L1 
+1 2 3 4 5 
+6. Create a 4 element list L2 with 7, 8, 9, 10.
+7. Display L2 
+7 8 9 10 
+8. Do L2 = L1;
+9. Display L2
+1 2 3 4 5 
+10. Remove a rear node from L1. (This should not affect L2).
+11. Display L1. 
+1 2 3 4 
+12. Display L1 again.
+1 2 3 4 
+13. Display L2 again.
+1 2 3 4 5 
+calling the llist destructor
+calling the llist destructor
+]0;cruz076@empress:~/cs311/HWPrograms/forHW3[cruz076@empress forHW3]$ exit
+exit
+
+Script done on Mon 24 Oct 2016 10:35:06 PM PDT

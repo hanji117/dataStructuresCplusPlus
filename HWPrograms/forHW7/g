@@ -1,0 +1,1 @@
+g++ dgraph.cpp hw7p2client.cpp slist.cpp llist.cpp stack.cpp
